@@ -5,7 +5,7 @@ import Home from './pages/Home';
 import Movies from './pages/Movies';
 import About from './pages/About';
 import MovieDetail from './pages/MovieDetail';
-import NotFound from './pages/Notfound';
+import NotFound from './pages/Notfound.jsx';
 
 function App() {
   return (
