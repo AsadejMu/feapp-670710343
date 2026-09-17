@@ -110,5 +110,27 @@ export const movies = [
     "rating": 6.7,
     "detail": "ในภาพยนตร์ระทึกขวัญจิตวิทยาเรื่องเดอะรันเนอร์ ไมอา มาร์เทนทนายความผู้ปราดเปรื่องแห่งลอนดอนต้องเจอเรื่องช็อกขณะวิ่งจ๊อกกิ้งตอนเช้า เมื่อสายปริศนาโทรมาบอกว่าลูกชายของเธอถูกลักพาตัวไป หากต้องการได้ลูกคืน เธอต้องวิ่งต่อไป ทำตามคำสั่งสุดโหดทุกข้อ และห้ามไว้ใจใคร วินาทีต่อจากนี้คือบททดสอบว่าคนเป็นแม่จะยอมทำเพื่อลูกได้มากแค่ไหน",
     "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg"
-  }
+  },
+  {
+    "id": 11,
+    "tmdbId": 1386315,
+    "title": "The Bodyguard 2",
+    "titleTh": "เดอะบอดี้การ์ด 2",
+    "genre": "Thriller",
+    "year": 2026,
+    "rating": 6.7,
+    "detail": "ไม่บอก",
+    "poster": "https://2g.pantip.com/cafe/chalermthai/newmovie/bodyguard2/bg2_00.jpg"
+  },
+  {
+    "id": 12,
+    "tmdbId": 1386315,
+    "title": "Monk 5G",
+    "titleTh": "หลวงพี่แจ้ต 5G",
+    "genre": "Comedy",
+    "year": 2019,
+    "rating": 6.7,
+    "detail": "ไม่บอก",
+    "poster": "https://cdni-hw.ch7.com/dm/sz-md/i/images/2020/08/18/5f3b9010b2c7c6.39090263.jpg"
+}
 ];
